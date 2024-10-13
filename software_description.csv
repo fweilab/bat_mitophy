@@ -1,0 +1,8 @@
+iqtree,Phylogeny construction,https://github.com/Cibiv/IQ-TREE/releases/download/v1.6.12/iqtree-1.6.12-Linux.tar.gz
+Mrbayes,Phylogeny construction,https://github.com/NBISweden/MrBayes/releases/download/v3.2.7/mrbayes-3.2.7.tar.gz
+PGLS,generalized linear regression model within a phylogenetic framework,R script caper
+Arc,Mitochondrial genome assembly,https://github.com/ibest/ARC/tarball/master
+lastz,Sequence alignment,http://www.bx.psu.edu/~rsharris/lastz/lastz-1.04.15.tar.gz
+muscle,Multiple sequence alignment,https://github.com/rcedgar/muscle/releases/download/v5.1/muscle5.1.linux_intel64
+Codeml,Selection pressure calculation,http://abacus.gene.ucl.ac.uk/software/paml4.9j.tgz
+mcmctree,Divergence time estimation,http://abacus.gene.ucl.ac.uk/software/paml4.9j.tgz
